@@ -1,7 +1,7 @@
 {
-  "name": "template",
+  "name": "luis-template5",
   "version": "1.0.0",
-  "description": "",
+  "description": "luis-template5",
   "main": "index.js",
   "scripts": {
     "lint:fix": "eslint --cache --fix",
@@ -41,5 +41,12 @@
     "*.{js,css,md,yml}": [
       "npm run prettier:fix"
     ]
-  }
+  },
+  "repository": {
+    "url": "git+git@github.com:luis-ayala15/luis-template5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luis-ayala15/luis-template5/issues"
+  },
+  "homepage": "https://github.com/luis-ayala15/luis-template5#readme"
 }
